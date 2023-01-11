@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/DNDAHieubeo1.github.io/static/css/main.9e9c1a4f.css",
-    "main.js": "/DNDAHieubeo1.github.io/static/js/main.af25a71c.js",
-    "index.html": "/DNDAHieubeo1.github.io/index.html",
-    "static/media/warning.svg": "/DNDAHieubeo1.github.io/static/media/warning.85c8f4716bef58345fef06252994b9f5.svg",
-    "static/media/edit.svg": "/DNDAHieubeo1.github.io/static/media/edit.11a949a79e6bb3181a46678f1d41f513.svg",
-    "static/media/trash.svg": "/DNDAHieubeo1.github.io/static/media/trash.fef38a899274944df0752ac8efb542c6.svg",
-    "static/media/add.svg": "/DNDAHieubeo1.github.io/static/media/add.8a0ae72a323ebe3e965676c8ccfcf0a5.svg",
-    "static/media/addTask.svg": "/DNDAHieubeo1.github.io/static/media/addTask.651f00acf904d98d08137095dec5e742.svg",
-    "main.9e9c1a4f.css.map": "/DNDAHieubeo1.github.io/static/css/main.9e9c1a4f.css.map",
-    "main.af25a71c.js.map": "/DNDAHieubeo1.github.io/static/js/main.af25a71c.js.map"
+    "main.css": "/static/css/main.9e9c1a4f.css",
+    "main.js": "/static/js/main.88d7383d.js",
+    "index.html": "/index.html",
+    "static/media/warning.svg": "/static/media/warning.85c8f4716bef58345fef06252994b9f5.svg",
+    "static/media/edit.svg": "/static/media/edit.11a949a79e6bb3181a46678f1d41f513.svg",
+    "static/media/trash.svg": "/static/media/trash.fef38a899274944df0752ac8efb542c6.svg",
+    "static/media/add.svg": "/static/media/add.8a0ae72a323ebe3e965676c8ccfcf0a5.svg",
+    "static/media/addTask.svg": "/static/media/addTask.651f00acf904d98d08137095dec5e742.svg",
+    "main.9e9c1a4f.css.map": "/static/css/main.9e9c1a4f.css.map",
+    "main.88d7383d.js.map": "/static/js/main.88d7383d.js.map"
   },
   "entrypoints": [
     "static/css/main.9e9c1a4f.css",
-    "static/js/main.af25a71c.js"
+    "static/js/main.88d7383d.js"
   ]
 }
